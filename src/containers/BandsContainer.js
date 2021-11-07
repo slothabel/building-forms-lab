@@ -7,7 +7,6 @@ class BandsContainer extends Component {
   
   render() {
     const bands = this.props.bands.map((band, index) => <li key={index}>{band.name}</li> )
-    debugger
     return(
       <div>
         {<ul>

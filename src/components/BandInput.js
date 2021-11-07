@@ -31,5 +31,4 @@ class BandInput extends Component {
 }
 
 export default BandInput
-// export default connect(null, mapDispatchToProps)(CreateTodo);
-// BandInput
+
